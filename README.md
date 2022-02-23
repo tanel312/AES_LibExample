@@ -11,4 +11,4 @@ The key and IV can be generated automatically by using a simple methodology base
 If they are auto generated, they need to be recorded since they will be needed for decryption.
 Information or error messages are displayed in the Status field such as input file error or key size error.
 
-It is is provided as it is with no warranty or support. 
+It is is provided under GNU General Public License, as it is with no warranty or support. 
